@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+# Aillow the Real Estate NFT DApp
 
 ## Technology Stack & Tools
 
@@ -29,3 +29,6 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+# Credits
+Based on this tutorial: [Learn Blockchain & Solidity Development Full Course 2024](https://www.youtube.com/watch?v=jcgfQEbptdo&t=11461s) by Dapp University

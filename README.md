@@ -29,3 +29,6 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+# Credits
+Based on [Learn Blockchain & Solidity Development Full Course 2024](https://www.youtube.com/results?search_query=blockchain+development+tutorial) by Dapp University
